@@ -3,7 +3,7 @@ from pyscript import display
 
 # String data type
 restaurant_name = "Slayyy Cafe"
-owner_name = "Hariette Onofre"
+owner_name = "Nicolle Tomas"
 
 # Integer data type
 year_since = 2025
@@ -65,4 +65,5 @@ display(f"Open: {business_hours[0]} - {business_hours[1]}", target="openingHours
 
 
 # Display order type
+
 display(f"Dine-in Available", target="orderType")
